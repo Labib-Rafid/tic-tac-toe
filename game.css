@@ -9,6 +9,7 @@ body {
 }
 
 .container {
+    margin-top: 50px;
     height: 70vh;
     display: flex;
     justify-content: center;
